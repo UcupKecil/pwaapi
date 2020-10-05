@@ -1,16 +1,23 @@
-
-
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"products":
+[{"id":1,"first_name":"Mocking cliffchat","category":"Fuscia"},
+{"id":2,"first_name":"Seal, southern elephant","category":"Turquoise"},
+{"id":3,"first_name":"Glossy starling (unidentified)","category":"Aquamarine"},
+{"id":4,"first_name":"Hudsonian godwit","category":"Purple"},
+{"id":5,"first_name":"European stork","category":"Blue"},
+{"id":6,"first_name":"Hartebeest, red","category":"Green"},
+{"id":7,"first_name":"Francolin, swainson's","category":"Violet"},
+{"id":8,"first_name":"Whale, killer","category":"Turquoise"},
+{"id":9,"first_name":"Indian leopard","category":"Purple"},
+{"id":10,"first_name":"Sloth, pale-throated three-toed","category":"Aquamarine"},
+{"id":11,"first_name":"Baboon, olive","category":"Puce"},
+{"id":12,"first_name":"Jackrabbit, white-tailed","category":"Fuscia"},
+{"id":13,"first_name":"Wallaby, red-necked","category":"Green"},
+{"id":14,"first_name":"Flamingo, chilean","category":"Teal"},
+{"id":15,"first_name":"Lion, african","category":"Puce"},
+{"id":16,"first_name":"Stork, greater adjutant","category":"Goldenrod"},
+{"id":17,"first_name":"Bat, little brown","category":"Puce"},
+{"id":18,"first_name":"Otter, brazilian","category":"Mauv"},
+{"id":19,"first_name":"Olive baboon","category":"Yellow"},
+{"id":20,"first_name":"Red deer","category":"Teal"}]
 }
